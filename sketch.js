@@ -7,7 +7,7 @@ var stage1img
 var stage2img
 var rock1,rock2,rock3,rock4,rock5
 var rockGroup
-var heightAboveMoon = 600
+var heightAboveMoon = 2000
 var gameState = 0
 var stage2
 var moonGround
